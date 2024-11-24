@@ -11,5 +11,5 @@ redis:alpine
 xiaoyaliu/alist:latest
 ghcr.io/open-webui/open-webui:main
 ghcr.io/open-webui/open-webui:ollama
-paddlecloud/paddleocr:2.6-cpu-latest
+paddlecloud/paddleocr:latest
 
